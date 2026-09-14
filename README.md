@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/jayesh067/DSA_LeetCode/tree/master/0864-image-overlap) |
+## Math
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/jayesh067/DSA_LeetCode/tree/master/0866-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/jayesh067/DSA_LeetCode/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
