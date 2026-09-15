@@ -30,4 +30,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/jayesh067/DSA_LeetCode/tree/master/0866-rectangle-overlap) |
+## Two Pointers
+|  |
+| ------- |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+## String
+|  |
+| ------- |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
