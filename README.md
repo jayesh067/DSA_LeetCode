@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0864-image-overlap](https://github.com/jayesh067/DSA_LeetCode/tree/master/0864-image-overlap) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jayesh067/DSA_LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
+| [3831-find-x-value-of-array-i](https://github.com/jayesh067/DSA_LeetCode/tree/master/3831-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0866-rectangle-overlap](https://github.com/jayesh067/DSA_LeetCode/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/jayesh067/DSA_LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jayesh067/DSA_LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3831-find-x-value-of-array-i](https://github.com/jayesh067/DSA_LeetCode/tree/master/3831-find-x-value-of-array-i) |
 ## Geometry
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jayesh067/DSA_LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3831-find-x-value-of-array-i](https://github.com/jayesh067/DSA_LeetCode/tree/master/3831-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
