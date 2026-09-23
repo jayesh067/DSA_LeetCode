@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/jayesh067/DSA_LeetCode/tree/master/0864-image-overlap) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jayesh067/DSA_LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/jayesh067/DSA_LeetCode/tree/master/3831-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jayesh067/DSA_LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jayesh067/DSA_LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -73,4 +76,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3811-reverse-degree-of-a-string](https://github.com/jayesh067/DSA_LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+## Sliding Window
+|  |
+| ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
