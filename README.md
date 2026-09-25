@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [1188-brace-expansion-ii](https://github.com/jayesh067/DSA_LeetCode/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jayesh067/DSA_LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [1188-brace-expansion-ii](https://github.com/jayesh067/DSA_LeetCode/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3811-reverse-degree-of-a-string](https://github.com/jayesh067/DSA_LeetCode/tree/master/3811-reverse-degree-of-a-string) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [1188-brace-expansion-ii](https://github.com/jayesh067/DSA_LeetCode/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Simulation
 |  |
@@ -84,4 +87,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1188-brace-expansion-ii](https://github.com/jayesh067/DSA_LeetCode/tree/master/1188-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1188-brace-expansion-ii](https://github.com/jayesh067/DSA_LeetCode/tree/master/1188-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1188-brace-expansion-ii](https://github.com/jayesh067/DSA_LeetCode/tree/master/1188-brace-expansion-ii) |
 <!---LeetCode Topics End-->
