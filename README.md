@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/jayesh067/DSA_LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [1188-brace-expansion-ii](https://github.com/jayesh067/DSA_LeetCode/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
