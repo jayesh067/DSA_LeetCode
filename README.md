@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/jayesh067/DSA_LeetCode/tree/master/0397-integer-replacement) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jayesh067/DSA_LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayesh067/DSA_LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/jayesh067/DSA_LeetCode/tree/master/0397-integer-replacement) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
@@ -119,4 +121,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jayesh067/DSA_LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayesh067/DSA_LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/jayesh067/DSA_LeetCode/tree/master/0397-integer-replacement) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/jayesh067/DSA_LeetCode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
