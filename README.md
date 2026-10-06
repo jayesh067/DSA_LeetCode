@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/jayesh067/DSA_LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/jayesh067/DSA_LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1188-brace-expansion-ii](https://github.com/jayesh067/DSA_LeetCode/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/jayesh067/DSA_LeetCode/tree/master/0397-integer-replacement) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/jayesh067/DSA_LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/jayesh067/DSA_LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1188-brace-expansion-ii](https://github.com/jayesh067/DSA_LeetCode/tree/master/1188-brace-expansion-ii) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jayesh067/DSA_LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bracket Sequences
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/jayesh067/DSA_LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jayesh067/DSA_LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayesh067/DSA_LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
