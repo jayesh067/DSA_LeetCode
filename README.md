@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0864-image-overlap](https://github.com/jayesh067/DSA_LeetCode/tree/master/0864-image-overlap) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/jayesh067/DSA_LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/jayesh067/DSA_LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayesh067/DSA_LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/jayesh067/DSA_LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jayesh067/DSA_LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1188-brace-expansion-ii](https://github.com/jayesh067/DSA_LeetCode/tree/master/1188-brace-expansion-ii) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/jayesh067/DSA_LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/jayesh067/DSA_LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
