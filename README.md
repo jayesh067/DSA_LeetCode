@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2210-find-target-indices-after-sorting-array](https://github.com/jayesh067/DSA_LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayesh067/DSA_LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/jayesh067/DSA_LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayesh067/DSA_LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jayesh067/DSA_LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/jayesh067/DSA_LeetCode/tree/master/3831-find-x-value-of-array-i) |
 | [4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/jayesh067/DSA_LeetCode/tree/master/4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/jayesh067/DSA_LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayesh067/DSA_LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jayesh067/DSA_LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/jayesh067/DSA_LeetCode/tree/master/4374-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Recursion
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0866-rectangle-overlap](https://github.com/jayesh067/DSA_LeetCode/tree/master/0866-rectangle-overlap) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/jayesh067/DSA_LeetCode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jayesh067/DSA_LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayesh067/DSA_LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3831-find-x-value-of-array-i](https://github.com/jayesh067/DSA_LeetCode/tree/master/3831-find-x-value-of-array-i) |
 ## Geometry
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1725-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jayesh067/DSA_LeetCode/tree/master/1725-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayesh067/DSA_LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayesh067/DSA_LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3831-find-x-value-of-array-i](https://github.com/jayesh067/DSA_LeetCode/tree/master/3831-find-x-value-of-array-i) |
 ## Greedy
 |  |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayesh067/DSA_LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
 |  |
 | ------- |
@@ -141,4 +146,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/jayesh067/DSA_LeetCode/tree/master/0397-integer-replacement) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayesh067/DSA_LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
