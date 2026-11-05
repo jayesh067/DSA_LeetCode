@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jayesh067/DSA_LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0864-image-overlap](https://github.com/jayesh067/DSA_LeetCode/tree/master/0864-image-overlap) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/jayesh067/DSA_LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/jayesh067/DSA_LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jayesh067/DSA_LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/jayesh067/DSA_LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1188-brace-expansion-ii](https://github.com/jayesh067/DSA_LeetCode/tree/master/1188-brace-expansion-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/jayesh067/DSA_LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jayesh067/DSA_LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Simulation
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Search
 |  |
 | ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/jayesh067/DSA_LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jayesh067/DSA_LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sliding Window
