@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jayesh067/DSA_LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/jayesh067/DSA_LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [2012-process-tasks-using-servers](https://github.com/jayesh067/DSA_LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/jayesh067/DSA_LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayesh067/DSA_LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/jayesh067/DSA_LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -153,5 +154,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2012-process-tasks-using-servers](https://github.com/jayesh067/DSA_LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayesh067/DSA_LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
