@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/jayesh067/DSA_LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0864-image-overlap](https://github.com/jayesh067/DSA_LeetCode/tree/master/0864-image-overlap) |
+| [1396-count-servers-that-communicate](https://github.com/jayesh067/DSA_LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/jayesh067/DSA_LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/jayesh067/DSA_LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/jayesh067/DSA_LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/jayesh067/DSA_LeetCode/tree/master/0864-image-overlap) |
+| [1396-count-servers-that-communicate](https://github.com/jayesh067/DSA_LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayesh067/DSA_LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1188-brace-expansion-ii](https://github.com/jayesh067/DSA_LeetCode/tree/master/1188-brace-expansion-ii) |
+| [1396-count-servers-that-communicate](https://github.com/jayesh067/DSA_LeetCode/tree/master/1396-count-servers-that-communicate) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -156,4 +159,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [2012-process-tasks-using-servers](https://github.com/jayesh067/DSA_LeetCode/tree/master/2012-process-tasks-using-servers) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayesh067/DSA_LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/jayesh067/DSA_LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/jayesh067/DSA_LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/jayesh067/DSA_LeetCode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
