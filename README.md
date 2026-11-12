@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2210-find-target-indices-after-sorting-array](https://github.com/jayesh067/DSA_LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jayesh067/DSA_LeetCode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/jayesh067/DSA_LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jayesh067/DSA_LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3717-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jayesh067/DSA_LeetCode/tree/master/3717-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3799-unique-3-digit-even-numbers](https://github.com/jayesh067/DSA_LeetCode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3831-find-x-value-of-array-i](https://github.com/jayesh067/DSA_LeetCode/tree/master/3831-find-x-value-of-array-i) |
