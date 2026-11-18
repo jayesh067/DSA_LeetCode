@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/jayesh067/DSA_LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/jayesh067/DSA_LeetCode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jayesh067/DSA_LeetCode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/jayesh067/DSA_LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3811-reverse-degree-of-a-string](https://github.com/jayesh067/DSA_LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 | [4220-minimum-operations-to-sort-a-string](https://github.com/jayesh067/DSA_LeetCode/tree/master/4220-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
